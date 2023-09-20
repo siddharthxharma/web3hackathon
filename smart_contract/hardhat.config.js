@@ -4,8 +4,8 @@ module.exports = {
   solidity: '0.8.0',
   networks: {
     ropsten: {
-      url: 'https://eth-ropsten.alchemyapi.io/v2/z4WpA8UKgqnwbTYmrZu15yCOiijBKaRv',
-      accounts: ['2f99db8cdb04655028eee1dc98230925202f6b3e010e43fad2883b4bea90a1a3'],
+      url: 'https://bsc-testnet-dataseed.bnbchain.org',
+      accounts: ['716a0eedac490c7ba60fbe66d03d857dd193589d45d3b1a3cb95162f70559da6'],
     },
   },
 };
